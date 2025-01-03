@@ -15,7 +15,10 @@
 
 - 🤝 I’m looking for help with **Frontend Development**
 
-- 💬 Ask me about **Currently pursuing studying Computer Science Engineering at RGPV University. Passionate about technology and problem-solving, I thrive in collaborative environments and look forward to applying my skills to innovative projects that drive positive change.**
+- 💬 Ask me about *I have completed a B.Tech in Computer Science Engineering at RGPV University. Passionate about
+technology and problem-solving, I enjoy exploring areas like full-stack development. I thrive in collaborative
+environments and look forward to applying my skills to innovative projects that drive positive change.
+**
 
 - 📫 How to reach me **mahajangopal35@gmail.com**
 
